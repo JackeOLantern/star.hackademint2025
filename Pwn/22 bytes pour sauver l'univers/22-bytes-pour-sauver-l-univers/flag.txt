@@ -1,0 +1,1 @@
+Star{test_local_flag}
